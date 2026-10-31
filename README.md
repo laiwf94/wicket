@@ -1,5 +1,7 @@
 # wicket
 
+> **This project has moved.** wicket is now part of [laiwf94/authz](https://github.com/laiwf94/authz), where it lives under `wicket/` with its full history and continues as one of the platform's tracks. This repository is archived.
+
 A single sign-on gateway that puts OpenID Connect and SAML 2.0 login in front
 of any web application, through the forward-auth hook of nginx, Traefik or
 Envoy. The app gets an authenticated user, as headers and as a signed token
